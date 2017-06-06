@@ -2,6 +2,8 @@ h1 {
   color: red;
 }
 p {
-  background-color: green;
   font-family: cursive;
+}
+body {
+    background-image: url("http://gph.is/1sCGjky");
 }
